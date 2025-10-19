@@ -1,0 +1,83 @@
+year,original_file,preprocessed_file,original_length,preprocessed_length,reduction_percent
+2020,2020 Austrian Grand Prix - Decision - Car 44 - alleged failure to slow for yellow flags.txt,no_articles_2020 Austrian Grand Prix - Decision - Car 44 - alleged failure to slow for yellow flags.txt,1438,1350,6.11961057023644
+2020,2020 Austrian Grand Prix - Decision - review of decision (document 33).txt,no_articles_2020 Austrian Grand Prix - Decision - review of decision (document 33).txt,1124,1026,8.718861209964412
+2020,2020 Austrian Grand Prix - Offence - Car 44 - Failure to slow for yellow flags (post review).txt,no_articles_2020 Austrian Grand Prix - Offence - Car 44 - Failure to slow for yellow flags (post review).txt,1632,1526,6.495098039215687
+2020,2020 Austrian Grand Prix - Offence - Car 44 - incident with car 23.txt,no_articles_2020 Austrian Grand Prix - Offence - Car 44 - incident with car 23.txt,1418,1319,6.981664315937941
+2020,2020 Austrian Grand Prix - Offence - Car 44 - Leaving the track in turn 10.txt,no_articles_2020 Austrian Grand Prix - Offence - Car 44 - Leaving the track in turn 10.txt,1623,1501,7.51694393099199
+2020,2020 Austrian Grand Prix - Offence - Car 44 - Track Limits turn 10.txt,no_articles_2020 Austrian Grand Prix - Offence - Car 44 - Track Limits turn 10.txt,1361,1260,7.421013960323291
+2020,2020 Italian Grand Prix - Offence - Car 44 - Entering closed pit lane.txt,no_articles_2020 Italian Grand Prix - Offence - Car 44 - Entering closed pit lane.txt,1304,1212,7.05521472392638
+2020,2020 Russian Grand Prix - Decision - Car 44 - Turn 2 .txt,no_articles_2020 Russian Grand Prix - Decision - Car 44 - Turn 2 .txt,1928,1779,7.728215767634855
+2020,2020 Russian Grand Prix - Replacement for Document 46 - Offence - Car 44 - 1st Practice Start.txt,no_articles_2020 Russian Grand Prix - Replacement for Document 46 - Offence - Car 44 - 1st Practice Start.txt,1570,1464,6.751592356687898
+2020,2020 Russian Grand Prix - Replacement for Document 47 - Offence - Car 44 - 2nd Practice Start.txt,no_articles_2020 Russian Grand Prix - Replacement for Document 47 - Offence - Car 44 - 2nd Practice Start.txt,1440,1342,6.805555555555555
+2020,2020 Sakhir Grand Prix - Offence - Mercedes - Car 63 incorrect use of tyres.txt,no_articles_2020 Sakhir Grand Prix - Offence - Mercedes - Car 63 incorrect use of tyres.txt,2992,2802,6.350267379679145
+2021,2021 Austrian Grand Prix - Decision - Car 77 - Alleged driving unnecessarily slowly .txt,no_articles_2021 Austrian Grand Prix - Decision - Car 77 - Alleged driving unnecessarily slowly .txt,1463,1363,6.83526999316473
+2021,2021 Brazilian Grand Prix - Offence - Car 44 - DRS.txt,no_articles_2021 Brazilian Grand Prix - Offence - Car 44 - DRS.txt,8030,7294,9.165628891656288
+2021,2021 Brazilian Grand Prix - Offence - Car 44 - PU element.txt,no_articles_2021 Brazilian Grand Prix - Offence - Car 44 - PU element.txt,1046,981,6.21414913957935
+2021,2021 Brazilian Grand Prix - Offence - Car 44 - Safety Belts.txt,no_articles_2021 Brazilian Grand Prix - Offence - Car 44 - Safety Belts.txt,1667,1527,8.398320335932812
+2021,2021 British Grand Prix - Offence - Car 44 - Causing a collision with car 33.txt,no_articles_2021 British Grand Prix - Offence - Car 44 - Causing a collision with car 33.txt,1370,1278,6.715328467153285
+2021,2021 Hungarian Grand Prix - Offence - Car 77 - causing a collision.txt,no_articles_2021 Hungarian Grand Prix - Offence - Car 77 - causing a collision.txt,1230,1139,7.398373983739838
+2021,2021 Hungarian Grand Prix - Offence - Car 77 - Pre-Race procedure.txt,no_articles_2021 Hungarian Grand Prix - Offence - Car 77 - Pre-Race procedure.txt,1231,1141,7.311129163281885
+2021,2021 Italian Grand Prix - Offence - Car 77 - PU element.txt,no_articles_2021 Italian Grand Prix - Offence - Car 77 - PU element.txt,1136,1055,7.130281690140845
+2021,2021 Italian Grand Prix - Offence - Car 77 - PU elements.txt,no_articles_2021 Italian Grand Prix - Offence - Car 77 - PU elements.txt,1141,1068,6.397896581945661
+2021,2021 Mexican Grand Prix - Offence - Car 44 - Turn 2 .txt,no_articles_2021 Mexican Grand Prix - Offence - Car 44 - Turn 2 .txt,1569,1449,7.648183556405354
+2021,2021 Qatar Grand Prix - Offence - Car 77 - Single waved yellow flag.txt,no_articles_2021 Qatar Grand Prix - Offence - Car 77 - Single waved yellow flag.txt,1471,1381,6.118286879673692
+2021,2021 Russian Grand Prix - Offence - Car 77 - PU elements.txt,no_articles_2021 Russian Grand Prix - Offence - Car 77 - PU elements.txt,1072,1011,5.690298507462686
+2021,2021 Saudi Arabian Grand Prix - Decision - Car 44 - double yellow.txt,no_articles_2021 Saudi Arabian Grand Prix - Decision - Car 44 - double yellow.txt,1837,1714,6.695699510070767
+2021,2021 Saudi Arabian Grand Prix - Offence - Car 44 - Impeding.txt,no_articles_2021 Saudi Arabian Grand Prix - Offence - Car 44 - Impeding.txt,2025,1891,6.617283950617284
+2021,2021 Turkish Grand Prix - Offence - Car 44 - PU element.txt,no_articles_2021 Turkish Grand Prix - Offence - Car 44 - PU element.txt,991,930,6.15539858728557
+2021,2021 United States Grand Prix - Offence - Car 77 - PU elements.txt,no_articles_2021 United States Grand Prix - Offence - Car 77 - PU elements.txt,998,937,6.112224448897796
+2022,2022 Abu Dhabi Grand Prix - Decision - Car 44 - Red Flag_0.txt,no_articles_2022 Abu Dhabi Grand Prix - Decision - Car 44 - Red Flag_0.txt,2805,2599,7.3440285204991085
+2022,2022 Abu Dhabi Grand Prix - Offence - Car 44 - Pit lane speeding.txt,no_articles_2022 Abu Dhabi Grand Prix - Offence - Car 44 - Pit lane speeding.txt,1015,957,5.714285714285714
+2022,2022 Abu Dhabi Grand Prix - Offence - Car 63 - Unsafe release.txt,no_articles_2022 Abu Dhabi Grand Prix - Offence - Car 63 - Unsafe release.txt,1037,970,6.460945033751206
+2022,2022 Australian Grand Prix - Decision - Car 44 - Alleged impeding of Car 18 at turn 13.txt,no_articles_2022 Australian Grand Prix - Decision - Car 44 - Alleged impeding of Car 18 at turn 13.txt,1313,1231,6.245239908606245
+2022,2022 Austrian Grand Prix - Offence - Car 44 - Parc Ferme Instructions.txt,no_articles_2022 Austrian Grand Prix - Offence - Car 44 - Parc Ferme Instructions.txt,1593,1473,7.532956685499058
+2022,2022 Austrian Grand Prix - Offence - Car 63 - Causing a collision.txt,no_articles_2022 Austrian Grand Prix - Offence - Car 63 - Causing a collision.txt,1443,1333,7.623007623007623
+2022,2022 Austrian Grand Prix - Offence - Car 63 - Entered the track on foot.txt,no_articles_2022 Austrian Grand Prix - Offence - Car 63 - Entered the track on foot.txt,1564,1441,7.864450127877237
+2022,2022 Azerbaijan Grand Prix - Decision - Car 44 - Allegedly driving unnecessarily slowly during Qualifying.txt,no_articles_2022 Azerbaijan Grand Prix - Decision - Car 44 - Allegedly driving unnecessarily slowly during Qualifying.txt,1741,1624,6.72027570361861
+2022,2022 Belgian Grand Prix - Offence - Car 44 - Alleged causing a collision.txt,no_articles_2022 Belgian Grand Prix - Offence - Car 44 - Alleged causing a collision.txt,1503,1397,7.052561543579508
+2022,2022 Dutch Grand Prix - Offence - Car 44 - Alleged impeding of Car 55.txt,no_articles_2022 Dutch Grand Prix - Offence - Car 44 - Alleged impeding of Car 55.txt,1758,1654,5.915813424345847
+2022,2022 Italian Grand Prix - Offence - Car 44 - PU element.txt,no_articles_2022 Italian Grand Prix - Offence - Car 44 - PU element.txt,1135,1065,6.167400881057269
+2022,2022 Singapore Grand Prix - Decision - Car 44 - Breach of Appendix L.txt,no_articles_2022 Singapore Grand Prix - Decision - Car 44 - Breach of Appendix L.txt,1698,1579,7.0082449941107186
+2022,2022 Singapore Grand Prix - Offence - Car 63 - Pit lane speeding.txt,no_articles_2022 Singapore Grand Prix - Offence - Car 63 - Pit lane speeding.txt,1010,952,5.742574257425743
+2022,2022 Singapore Grand Prix - Offence - Car 63 - PU elements.txt,no_articles_2022 Singapore Grand Prix - Offence - Car 63 - PU elements.txt,1718,1584,7.799767171129219
+2022,2022 United States Grand Prix - Offence - Car 63 - T1 Incident with car 55.txt,no_articles_2022 United States Grand Prix - Offence - Car 63 - T1 Incident with car 55.txt,1134,1064,6.172839506172839
+2023,2023 Abu Dhabi Grand Prix - Infringement - Mercedes - Team Principal (Updated).txt,no_articles_2023 Abu Dhabi Grand Prix - Infringement - Mercedes - Team Principal (Updated).txt,2240,2041,8.883928571428571
+2023,2023 Australian Grand Prix - Decision - Mercedes - Inaccurate Self Scrutineering Form.txt,no_articles_2023 Australian Grand Prix - Decision - Mercedes - Inaccurate Self Scrutineering Form.txt,1421,1324,6.826178747361013
+2023,2023 Austrian Grand Prix - Infringement - Car 44 - Leaving the track multiple times.txt,no_articles_2023 Austrian Grand Prix - Infringement - Car 44 - Leaving the track multiple times.txt,1281,1185,7.494145199063232
+2023,2023 Austrian Grand Prix - Infringement - Car 44 - Pit Lane Speeding.txt,no_articles_2023 Austrian Grand Prix - Infringement - Car 44 - Pit Lane Speeding.txt,1152,1078,6.423611111111111
+2023,2023 Bahrain Grand Prix - Decision - Car 44 - Wearing of Jewellery.txt,no_articles_2023 Bahrain Grand Prix - Decision - Car 44 - Wearing of Jewellery.txt,1347,1252,7.052709725315516
+2023,2023 Belgian Grand Prix - Infringement - Car 44 - Causing a Collision.txt,no_articles_2023 Belgian Grand Prix - Infringement - Car 44 - Causing a Collision.txt,1504,1404,6.648936170212766
+2023,2023 British Grand Prix - Infringement - Mercedes - Thursday Press Conference.txt,no_articles_2023 British Grand Prix - Infringement - Mercedes - Thursday Press Conference.txt,2480,2260,8.870967741935484
+2023,2023 Canadian Grand Prix - Decision - Car 44 - Alleged Unsafe Release.txt,no_articles_2023 Canadian Grand Prix - Decision - Car 44 - Alleged Unsafe Release.txt,1274,1200,5.808477237048666
+2023,2023 Italian Grand Prix - Infringement - Car 44 - Causing a Collision.txt,no_articles_2023 Italian Grand Prix - Infringement - Car 44 - Causing a Collision.txt,1366,1266,7.320644216691069
+2023,2023 Italian Grand Prix - Infringement - Car 63 - Leaving the track.txt,no_articles_2023 Italian Grand Prix - Infringement - Car 63 - Leaving the track.txt,1497,1391,7.080828323313293
+2023,2023 Las Vegas Grand Prix - Infringement - Car 63 - Causing a collision.txt,no_articles_2023 Las Vegas Grand Prix - Infringement - Car 63 - Causing a collision.txt,1457,1357,6.863417982155114
+2023,2023 Miami Grand Prix - Decision - Car 44 - Turn 17 Incident.txt,no_articles_2023 Miami Grand Prix - Decision - Car 44 - Turn 17 Incident.txt,1717,1614,5.998835177635411
+2023,2023 Monaco Grand Prix - Infringement - Car 44 - Pit Lane Speeding.txt,no_articles_2023 Monaco Grand Prix - Infringement - Car 44 - Pit Lane Speeding.txt,1069,1007,5.799812909260991
+2023,2023 Monaco Grand Prix - Infringement - Car 63 - Pit Lane Speeding.txt,no_articles_2023 Monaco Grand Prix - Infringement - Car 63 - Pit Lane Speeding.txt,1069,1007,5.799812909260991
+2023,2023 Monaco Grand Prix - Infringement - Car 63 - Unsafe Rejoin.txt,no_articles_2023 Monaco Grand Prix - Infringement - Car 63 - Unsafe Rejoin.txt,1222,1140,6.710310965630114
+2023,2023 Qatar Grand Prix - Infringement - Car 44 - Crossing the track.txt,no_articles_2023 Qatar Grand Prix - Infringement - Car 44 - Crossing the track.txt,2447,2247,8.173273395995096
+2023,2023 Saudi Arabian Grand Prix - Offence - Mercedes - Inaccurate Scrutineering Form.txt,no_articles_2023 Saudi Arabian Grand Prix - Offence - Mercedes - Inaccurate Scrutineering Form.txt,1419,1318,7.11768851303735
+2023,2023 Spanish Grand Prix - Infringement - Car 63 - Abnormal change of direction.txt,no_articles_2023 Spanish Grand Prix - Infringement - Car 63 - Abnormal change of direction.txt,1754,1644,6.2713797035347785
+2023,2023 Spanish Grand Prix - Infringement - Mercedes - Parc Ferme.txt,no_articles_2023 Spanish Grand Prix - Infringement - Mercedes - Parc Ferme.txt,1625,1493,8.123076923076923
+2023,2023 São Paulo Grand Prix - Infringement - Car 63 - Impeding at Pit Exit.txt,no_articles_2023 São Paulo Grand Prix - Infringement - Car 63 - Impeding at Pit Exit.txt,2204,2039,7.486388384754991
+2023,2023 United States Grand Prix - Infringement - Car 44 - Technical non-compliance (Plank).txt,no_articles_2023 United States Grand Prix - Infringement - Car 44 - Technical non-compliance (Plank).txt,2235,2008,10.156599552572706
+2023,2023 United States Grand Prix - Infringement - Car 63 - Impeding of Car 16.txt,no_articles_2023 United States Grand Prix - Infringement - Car 63 - Impeding of Car 16.txt,1911,1787,6.488749345892203
+2023,2023 United States Grand Prix - Infringement - Car 63 - Leaving the track.txt,no_articles_2023 United States Grand Prix - Infringement - Car 63 - Leaving the track.txt,1515,1413,6.732673267326733
+2024,2024 Austrian Grand Prix - Infringement - Car 44 - Crossing the line at Pit Entry.txt,no_articles_2024 Austrian Grand Prix - Infringement - Car 44 - Crossing the line at Pit Entry.txt,1327,1237,6.782215523737754
+2024,2024 Austrian Grand Prix - Infringement - Car 44 - Unsafe release.txt,no_articles_2024 Austrian Grand Prix - Infringement - Car 44 - Unsafe release.txt,1448,1339,7.527624309392265
+2024,2024 Azerbaijan Grand Prix - Infringement - Car 44 - Changes made during Parc Ferme.txt,no_articles_2024 Azerbaijan Grand Prix - Infringement - Car 44 - Changes made during Parc Ferme.txt,1739,1617,7.015526164462335
+2024,2024 Azerbaijan Grand Prix - Infringement - Car 63 - Failing to slow for yellow flags.txt,no_articles_2024 Azerbaijan Grand Prix - Infringement - Car 63 - Failing to slow for yellow flags.txt,3109,2913,6.3042779028626565
+2024,2024 Belgian Grand Prix - Infringement - Car 63 - Technical non-compliance (Weight).txt,no_articles_2024 Belgian Grand Prix - Infringement - Car 63 - Technical non-compliance (Weight).txt,2135,1968,7.822014051522248
+2024,2024 Dutch Grand Prix - Infringement - Car 44 - impeding of Car 11.txt,no_articles_2024 Dutch Grand Prix - Infringement - Car 44 - impeding of Car 11.txt,2132,1979,7.176360225140713
+2024,2024 Japanese Grand Prix - Infringement - Car 63 - Unsafe release.txt,no_articles_2024 Japanese Grand Prix - Infringement - Car 63 - Unsafe release.txt,2241,2070,7.630522088353414
+2024,2024 Miami Grand Prix - Infringement - Car 44 - Pit Lane Speeding.txt,no_articles_2024 Miami Grand Prix - Infringement - Car 44 - Pit Lane Speeding.txt,1484,1384,6.738544474393531
+2024,2024 Qatar Grand Prix - Infringement - Car 44 - False Start.txt,no_articles_2024 Qatar Grand Prix - Infringement - Car 44 - False Start.txt,1345,1246,7.3605947955390345
+2024,2024 Qatar Grand Prix - Infringement - Car 44 - Speeding in the Pit Lane.txt,no_articles_2024 Qatar Grand Prix - Infringement - Car 44 - Speeding in the Pit Lane.txt,1113,1043,6.289308176100629
+2024,2024 Qatar Grand Prix - Infringement - Car 63 - Failing to maintain distance behind the Safety Car.txt,no_articles_2024 Qatar Grand Prix - Infringement - Car 63 - Failing to maintain distance behind the Safety Car.txt,1397,1301,6.8718682891911245
+2024,2024 Saudi Arabian Grand Prix - Infringement - Car 44 - Impeding of Car 2.txt,no_articles_2024 Saudi Arabian Grand Prix - Infringement - Car 44 - Impeding of Car 2.txt,2072,1926,7.046332046332046
+2024,2024 São Paulo Grand Prix - Infringement - Car 44 - Tyre Pressure Checks.txt,no_articles_2024 São Paulo Grand Prix - Infringement - Car 44 - Tyre Pressure Checks.txt,2579,2344,9.112058937572701
+2024,2024 São Paulo Grand Prix - Infringement - Car 63 - Aborted Start incident.txt,no_articles_2024 São Paulo Grand Prix - Infringement - Car 63 - Aborted Start incident.txt,2159,1960,9.21723019916628
+2024,2024 São Paulo Grand Prix - Infringement - Car 63 - Tyre Pressure Checks.txt,no_articles_2024 São Paulo Grand Prix - Infringement - Car 63 - Tyre Pressure Checks.txt,2579,2344,9.112058937572701
+2024,2024 United States Grand Prix - Infringement - Car 63 - Breach of Parc Ferme.txt,no_articles_2024 United States Grand Prix - Infringement - Car 63 - Breach of Parc Ferme.txt,1195,1109,7.1966527196652725
+2024,2024 United States Grand Prix - Infringement - Car 63 - Forcing another driver off the track.txt,no_articles_2024 United States Grand Prix - Infringement - Car 63 - Forcing another driver off the track.txt,1603,1481,7.610729881472239

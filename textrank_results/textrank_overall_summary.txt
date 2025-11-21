@@ -1,0 +1,11 @@
+Mercedes F1 Infringement Profile - Overall Summary (TextRank)
+======================================================================
+
+ 2020 Summary: Reason Stewards heard from driver of Car 44 (Lewis Hamilton) and team representative and have reviewed video and telemetry evidences. Reason Stewards heard from driver of Car 44 (Lewis Hamilton) and team representative and have reviewed video, evidence. Reason Stewards heard from driver of Car 44 (Lewis Hamilton) and team representative and have reviewed video evidence. Reason Stewards heard from driver of Car ​​44 ( Lewis Hamilton), team representative and reviewed video evidence. Reason Stewards heard from driver of Car 63 (George Russell), driver of Car 44 (Lewis Hamilton), team representatives and reviewed positioning/marshalling system data, video, team radio and in-car video evidence.
+
+======================================================================
+STATISTICS:
+Total documents processed: 82
+Total characters analyzed: 70,733
+Overall summary length: 714 characters
+Overall compression ratio: 1.0%

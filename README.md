@@ -1,4 +1,4 @@
-# FIA Infringements — NLP Summarization Project
+# Mercedes F1 Team Infringement Profiling: An NLP Summarization Project
 
 A **natural language processing (NLP) and text mining** project that builds and evaluates automatic summarization pipelines over Mercedes F1 infringement documents from the FIA (2020–2024). The focus is on experimenting with extractive and abstractive summarization models and comparing them to LLM-based ground truth summaries using standard evaluation metrics.
 

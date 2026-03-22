@@ -1,11 +1,11 @@
 Mercedes F1 Infringement Profile - Overall Summary (LexRank)
 ======================================================================
 
- 2020 Summary: Offence Alleged breach of Appendix H Article 2.5.5.1.b) of FIA International Sporting Code. driver mentioned that he passed green light panel in turn 5. video footage confirmed that there have been yellow flags and green light panels at same time and therefore conflicting signals were shown to driver. Taking this into account, Stewards decide to take no further action. Stewards, summoned team (Document 39) and held hearing at 13:45 on Sunday 5th July, 2020. Reasons: During initial hearing, no on-board video footage of car 44 was available to Stewards.
+ 2020 Summary: Decision No further action. Reason The Stewards heard from the driver of Car 44 (Lewis Hamilton) and the team representative and have reviewed video and telemetry evidences. The Stewards, summoned the team (Document 39) and held a hearing at 13:45 on Sunday 5th July, 2020. The Stewards heard the driver and the team representative. The penalty was applied in accordance with point 21.2.a) of the Race Director’s Event Notes and Article 12.3.1.e of the FIA International Sporting Code.
 
 ======================================================================
 STATISTICS:
 Total documents processed: 82
-Total characters analyzed: 70,733
-Overall summary length: 572 characters
-Overall compression ratio: 0.8%
+Total characters analyzed: 76,407
+Overall summary length: 500 characters
+Overall compression ratio: 0.7%

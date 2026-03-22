@@ -1,0 +1,11 @@
+Mercedes F1 Infringement Profile - Overall Summary (LexRank V2)
+======================================================================
+
+Decision No further action. The Stewards received a petition from Aston Martin Red Bull Racing (including video footage) for them to review, in accordance with Article 14 of the FIA International Sporting Code, the following decision made by the Stewards at the 2020 Austrian Grand Prix Competition: Document 33 – 2020 Austrian Grand Prix. Reasons: During the initial hearing, no on-board video footage of car 44 was available to the Stewards. (2 penalty points awarded, 5 points in total for the 12 month period) Reason Following a petition to review decision 33 taken after Qualifying, the Stewards acknowledged that the on-board footage of car 44 represents a significant new element (see decision 41) that had not been available to the Stewards in the hearing on Saturday and therefore reviewed the case. 12.4.1 m of the FIA International Sporting Code) Reason Reason The Technical Delegate reported that Car 44 failed the test designed to check the requirements of the last paragraph of Art. The Competitor therefore argues that their car complied with the regulation in the static position and thus meets the regulation. The Stewards, however, were fully satisfied, having extensively reviewed the totality of the evidence regarding that incident, that it has no bearing on this case. 2022 Summary: Decision No penalty is applied.
+
+======================================================================
+STATISTICS:
+Total documents processed: 82
+Total characters analyzed: 76,407
+Overall summary length: 1,336 characters
+Overall compression ratio: 1.7%

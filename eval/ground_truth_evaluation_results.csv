@@ -1,0 +1,3 @@
+Document,Length (chars),Compression Ratio,Compression %,KE Overlap (vs Source),Redundancy Score,ROUGE-1 F1,ROUGE-2 F1,ROUGE-L F1
+GPT-4o-mini,1459,0.0191,98.09%,64.29%,7.77,0.5973,0.2400,0.2788
+Groq-Llama,1302,0.0170,98.30%,66.67%,9.42,0.5973,0.2400,0.2788

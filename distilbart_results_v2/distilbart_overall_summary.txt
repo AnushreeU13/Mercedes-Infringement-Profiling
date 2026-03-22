@@ -1,0 +1,12 @@
+Mercedes F1 Infringement Profile - Overall Summary (Abstractive V2)
+==================================================
+
+ Mercedes-AMG Petronas F1 team fined €25,000 for practice start violation . Lewis Hamilton disqualified from qualifying after failing to meet the requirements of Art.6.3 of the 2021 FIA Formula 1 Technical Regulations . Valtteri Bottas will be banned from qualifying for the first time since 2009 . Hamilton will start the race from the rear of the grid from the back of the starting grid after Bottas failed to respect a single yellow flag in the first session of the Formula One season .  Lewis Hamilton was fined €500 for exceeding the pit lane speed limit by 4.5 km/h . Mercedes-AMG Petronas F1 Team fined £1,500 for the breach of Article 37.5 of the FIA Formula One Sporting Regulations . Hamilton admitted wearing an item of jewellery in the form of a body piercing (nose stud) during the session . Lewis Hamilton received a warning for driving unnecessarily slowly during Qualifying . The stewards took no further action for Lewis Hamilton after the collision with Fernando Alonso at turn 5 .  Mercedes team doctor requested exemption from compliance with Art. 5 on medical grounds . Lewis Hamilton crossed the white line at pit entry when entering the pits . Car 63 unnecessarily impeded Car 16 in turn 19 at 12:41 . The Stewards heard from the driver of Car 20 (Kevin Magnussen) and reviewed video, team radio and in-car video evidence and determined Car 20 was on a slow lap . The following Power Unit elements have been replaced without approval of the FIA Technical Delegate during Parc Ferme . The decision should not be considered as a precedent for any similar breach in the future .  A 5 second penalty is imposed instead of the standard 10 second penalty . The penalty is instead of a standard 10-second penalty . A 5second penalty is also imposed on penalties for a second time instead of 10 seconds . The decision was made after a penalty was awarded after a second-half penalty was given to the wrong side of the penalty line-up . CLICK HERE for all the latest from our live updates from our new World Cup 2015 news stories and videos from the World Cup in action .
+
+==================================================
+STATISTICS
+==================================================
+Total documents processed: 82
+Total characters analyzed: 76,407
+Overall summary length: 2,085 characters
+Overall compression ratio: 2.7%
